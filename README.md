@@ -17,11 +17,6 @@
 悩んでいる人を救えるツールになるといいと思う。
 
 ***
-## 作る上で意識した事
-
-一つ一つの機能自体はいたってシンプルなものばかりであり、画期的で面白みのある作品かどうかと問われればあまり自信はありません。
-
-しかしながら、Rails最大の強みでもある「MVCアーキテクチャ」の概念にひたすら忠実に従い、何よりも基本を意識した構成を心掛けております。
 
 ## 制作したきっかけ
 
@@ -47,17 +42,6 @@
 - 悩みが解決したら、いいね機能で投稿を評価し合ったり、答えが出たことに喜んだり、想いを言語化するために、文字で投稿できるようにしました。
 - 動作確認を、機能ごとと全体の動作確認も行う点をとても大切にしました。
 
-　
-## 技術内容
-- フレームワーク:Ruby on Rails（ '5.2.2'）
-- DB: 'mysql2', '>= 0.4.4', '< 0.6.0'
-- DB：PostgreSQL (本番環境)
-- バージョン管理:Git
-- インフラ:Heroku
-- Webサーバ:puma('3.11')
-- スタイルシート:sass-rails', '~> 5.0'
-- パスワードセキュリティ:'bcrypt', '~> 3.1.7'
-
 ***
 ## URL
 https://realtime-chat-ogihara.herokuapp.com/
@@ -66,40 +50,29 @@ https://realtime-chat-ogihara.herokuapp.com/
 
 メールアドレス：user@example.com
 パスワード：password
-***
-
-# 開発環境
-- Ruby  2.5.3
-- Rails 5.2.2
 
 ***
 
 # 実装した各種機能
 
 『記事関連』
-- 記事一覧表示機能
+- チャット一覧表示機能
 - 詳細表示機能
-- 記事投稿機能
-- 記事削除機能
+- チャット投稿機能
 - エラーメッセージ表示機能
 - お気に入り機能（いいね機能）
-- ヘージネーション機能（kaminari）
+- ヘージネーション機能
 
 『ユーザー関連』
 - ユーサー登録機能
 - ロクイン/ログアウト機能
-- ユーサーフォロー機能
-- DBテーフルのリレーション機能
 ***
 
 ## トップページ（ログイン前）
 ![Realtime-Chat トップページ（ログイン前）](https://i.gyazo.com/ca117e9c6db8f6ca8e7cb9510b312ac0.png)
 
 ## トップページ（ログイン後）
-![Realtime-Chat トップページ（ログイン後）](https://i.gyazo.com/54cdebe369d29841ed3e68a8982fec0d.png)
-
-## ユーザー登録ページ
-![Realtime-Chat ユーザー登録ページ](https://i.gyazo.com/b6ff55c14a9fcb6e4183f13b5720e5d0.png)
+![Realtime-Chat トップページ（ログイン後）](https://i.gyazo.com/80f37f38c83e64edb02c7dd06be277ae.png)
 
 ## 投稿一覧ページ
 ![Realtime-Chat 投稿一覧ページ](https://i.gyazo.com/b5928aadb6e25d806939714f13c6aada.png)
@@ -123,7 +96,7 @@ https://realtime-chat-ogihara.herokuapp.com/
 - 得意な分野: 
 チーム活動、コミュニケーション、プレゼンテーション
 - スキルセット: 
-HTML/CSS、Ruby、JavaScript、Firebase、MySQL、Git、GitHub
+HTML/CSS、Ruby、JavaScript、Vue.js、Firebase、MySQL、Git、GitHub
 - やりたいこと: 
 ヒトとヒトが繋がれる場所を作りたかった。
 - Ruby選んだ理由: 
