@@ -57,6 +57,8 @@
 - HTML/CSS
 - Javascript
 - Firebase
+- バージョン管理:Git
+- インフラ:Heroku
 
 ## URL
 https://realtime-chat-ogihara.herokuapp.com/
