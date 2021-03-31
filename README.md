@@ -2,7 +2,7 @@
 
 ## サービス概要
 
-![realtime-chat トップ](https://i.gyazo.com/b5928aadb6e25d806939714f13c6aada.png)
+![realtime-chat ](https://i.gyazo.com/724af5a1b730924cf74595c9041eb163.png)
 
 『使用用途』
 
@@ -83,17 +83,24 @@ https://realtime-chat-ogihara.herokuapp.com/
 ## トップページ（ログイン後）
 ![Realtime-Chat トップページ（ログイン後）](https://i.gyazo.com/80f37f38c83e64edb02c7dd06be277ae.png)
 
-## 投稿一覧ページ
-![Realtime-Chat 投稿一覧ページ](https://i.gyazo.com/b5928aadb6e25d806939714f13c6aada.png)
+## 投稿一覧ページ 1
+![Realtime-Chat 投稿一覧ページ 1](https://i.gyazo.com/724af5a1b730924cf74595c9041eb163.png)
 
 ## 投稿一覧ページ 2
-![Realtime-Chat 投稿一覧ページ 2](https://i.gyazo.com/36eb92259ebc70cba0246ea81c18c3b2.png)
+![Realtime-Chat 投稿一覧ページ 2](https://i.gyazo.com/b5928aadb6e25d806939714f13c6aada.png)
+
+## 投稿一覧ページ 3
+![Realtime-Chat 投稿一覧ページ 3](https://i.gyazo.com/b872446d36d89f337b2b2489879fc96f.png)
 
 ## お気に入り一覧ページ
 ![Realtime-Chat お気に入り一覧ページ](https://i.gyazo.com/d2cdba55714a462bca2cec46a2de3a15.png)
 
 ## ユーザー詳細ページ
 ![Realtime-Chat ユーザー詳細ページ](https://i.gyazo.com/4892c87ec45aeda67e5c094ba4174a03.png)
+
+## ルーム選択ページ
+![Realtime-Chat ルーム選択ページ](https://i.gyazo.com/7915457fe37cf093c9da0e0e2ba02550.png)
+
 
 
 # 作成者の自己紹介
